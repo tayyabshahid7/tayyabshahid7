@@ -1,6 +1,6 @@
 
 
-![banner](https://github.com/tayyabshahid7/profile/blob/main/264577585-52765c7e-d72f-4452-9556-f1dfd2c17902.png)
+![banner](https://github.com/tayyabshahid7/tayyabshahid7/blob/main/264577585-52765c7e-d72f-4452-9556-f1dfd2c17902.png)
 
 
 <h1 align="center">Hi 👋, I'm Tayyab Shahid</h1>
